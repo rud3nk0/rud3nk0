@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I'm Dmitry</h1>
 <h3 align="center">I'm Full Stack programmers, but my soul is more at backend.<br/>
-  In programming i not longest time but i have strong ambition into my job
+  In programming i not longest time but i have strong ambition into my job <br/>
+  A little about myself, I am 18 years old, I was born in Ukraine, but now I live in Poland
 </h3>
 
 <h3 align="left">Speak language</h3>
