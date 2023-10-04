@@ -19,10 +19,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rud3nk0&show_icons=true&locale=en" alt="rud3nk0" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rud3nk0&" alt="rud3nk0" />
-</p>
-
 <h3 align="left">Languages</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
