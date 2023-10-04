@@ -5,8 +5,8 @@
 
 <h3 align="left">Speak language</h3>
 <p align="left">
-  Ukrainian : Native, <br/>
-  English : B1, <br/>
+  Ukrainian : Native <br/>
+  English : B1 <br/>
   Polish : A2
 </p>
 
