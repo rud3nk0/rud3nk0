@@ -3,7 +3,14 @@
   In programming i not longest time but i have strong ambition into my job
 </h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Speak language</h3>
+<p align="left">
+  Ukrainian : Native, <br/>
+  English : B1, <br/>
+  Polish : A2
+</p>
+
+<h3 align="left">Languages</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
