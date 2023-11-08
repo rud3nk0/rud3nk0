@@ -1,8 +1,5 @@
 <h1 align="center">Hi there👋, I'm Dmitry</h1>
-<h3 align="center">I'm Full Stack programmer, nevertheless I would rather improved my skills  at backend.
-  I`m not long time in the game, however  I constantly aiming stand better and have big ambitions in my job. 
-  A little about myself, I am 18 years old, I was born in Ukraine, but now I live in Poland
-</h3>
+<h3 align="center">I'm Backend prgrammer</h3>
 
 <h3 align="left">Speak language</h3>
 <p align="left">
