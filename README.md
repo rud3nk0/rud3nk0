@@ -60,7 +60,6 @@
   <a href="https://gulpjs.com/" target="_blank">
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
   </a> 
-  
 </p>
  
     
@@ -89,7 +88,6 @@
   <a href="https://nodejs.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
   </a> 
-
 </p>
 
 <h3 align="left">DevOps :</h3>
@@ -117,5 +115,4 @@
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> 
   </a> 
-  
 </p>
