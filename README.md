@@ -55,10 +55,11 @@
   </a>  
 
   <a href="https://gulpjs.com/" target="_blank">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
+  </a> 
 </p>
  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
-  </a>  
+    
 
   
 <h3 align="left">Backend</h3>
