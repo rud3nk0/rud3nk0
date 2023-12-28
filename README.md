@@ -1,5 +1,4 @@
 <h1 align="center">Hi there👋, I'm Dmitry</h1>
-<h3 align="center">I'm Frontend programmer</h3>
 
 <h3 align="left">Speak language</h3>
 <p align="left">
