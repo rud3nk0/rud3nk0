@@ -40,10 +40,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
   </a>
-  
-   </br>
 
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="margin: 10px"> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> 
   </a> 
   
@@ -62,6 +60,7 @@
   <a href="https://gulpjs.com/" target="_blank">
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
   </a> 
+  
 </p>
  
     
@@ -70,18 +69,23 @@
   <a href="https://www.php.net/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
   </a>  
+
   <a href="https://laravel.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
-  </a>  
+  </a> 
+
   <a href="https://www.mysql.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
   </a>  
+
   <a href="https://www.mongodb.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
   </a>  
+
   <a href="https://mariadb.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
   </a>  
+
   <a href="https://nodejs.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
   </a> 
