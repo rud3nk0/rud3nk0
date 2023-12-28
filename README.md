@@ -43,7 +43,7 @@
   
    </br>
 
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="margin-top: 10px"> 
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="margin: 10px"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> 
   </a> 
   
