@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rud3nk0&show_icons=true&locale=en" alt="rud3nk0" />
 </p>
 
-<h3 align="left">Frontend</h3>
+<h3 align="left">Frontend :</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
@@ -38,7 +38,7 @@
   </a>
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img style="margin-top: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
   </a>
 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
@@ -58,12 +58,12 @@
   </a>  
 
   <a href="https://gulpjs.com/" target="_blank">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
   </a> 
 </p>
  
     
-<h3 align="left">Backend</h3>
+<h3 align="left">Backend :</h3>
 <p align="left">
   <a href="https://www.php.net/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
