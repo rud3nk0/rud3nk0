@@ -29,6 +29,10 @@
   <a href="https://vuejs.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
   </a>  
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+  </a>  
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -60,8 +64,6 @@
 </p>
  
     
-
-  
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://www.php.net/" target="_blank">
