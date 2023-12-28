@@ -27,11 +27,11 @@
   </a> 
 
   <a href="https://vuejs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" />
   </a>  
 
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
   </a>  
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -51,15 +51,15 @@
   </a> 
 
   <a href="https://woocommerce.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="40" />
   </a>  
 
   <a href="https://wordpress.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" />
   </a>  
 
   <a href="https://gulpjs.com/" target="_blank">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="40" />
   </a> 
 </p>
  
@@ -67,22 +67,22 @@
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://www.php.net/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" />
   </a>  
   <a href="https://laravel.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" />
   </a>  
   <a href="https://www.mysql.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />
   </a>  
   <a href="https://www.mongodb.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
   </a>  
   <a href="https://mariadb.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="40" />
   </a>  
   <a href="https://nodejs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />
   </a>  
 </p>
 
@@ -90,11 +90,11 @@
 <p align="left">
 
   <a href="https://github.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
   </a>  
 
   <a href="https://www.docker.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />
   </a>  
 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
