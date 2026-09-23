@@ -7,14 +7,6 @@
   Polish : A2 - B1
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rud3nk0&show_icons=true&locale=en&layout=compact" alt="rud3nk0" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rud3nk0&show_icons=true&locale=en" alt="rud3nk0" />
-</p>
-
 <h3 align="left">Frontend :</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
